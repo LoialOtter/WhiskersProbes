@@ -17,4 +17,9 @@ D Quad LVDS receiver
 F https://www.ti.com/lit/ds/symlink/sn65lvds348.pdf
 $ENDCMP
 #
+$CMP SN65LVDS(T)352
+D Quad LVDS receiver
+F https://www.ti.com/lit/ds/symlink/sn65lvds348.pdf
+$ENDCMP
+#
 #End Doc Library
