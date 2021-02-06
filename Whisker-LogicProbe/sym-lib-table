@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name WhiskersLib)(type Legacy)(uri ${KIPRJMOD}/../WhiskersLib.lib)(options "")(descr ""))
+  (lib (name DifferentialProbe)(type Legacy)(uri C:/Data/Projects/DifferentialProbe/DifferentialProbe/DifferentialProbe.lib)(options "")(descr ""))
+)
